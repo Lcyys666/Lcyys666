@@ -1,7 +1,11 @@
-- 👋 我是 @Lcyys666
--  你好。
-- 「原神启动」
-- 
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 ![Lcyys666's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcyys666)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcyys666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
