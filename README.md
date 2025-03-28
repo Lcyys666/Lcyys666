@@ -8,6 +8,12 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Lcyys666&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lcyys666&theme=radical&layout=compact">
+</p>
+
 ![Lcyys666's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcyys666)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcyys666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
