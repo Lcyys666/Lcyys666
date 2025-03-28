@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
@@ -6,6 +7,7 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 ![Lcyys666's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcyys666)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcyys666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
