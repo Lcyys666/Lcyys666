@@ -3,7 +3,6 @@
 - 「原神启动」
 - 
 ![Lcyys666's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lcyys666)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Lcyys666)
 
 
 <!---
