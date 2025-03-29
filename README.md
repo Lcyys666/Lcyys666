@@ -1,7 +1,5 @@
 <h1 align="center">Lcyys666</h1>
 
-![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-
 ## 项目导航
 - [cf-api-interface](https://github.com/Lcyys666/cf-api-interface)
 - [Static-blogging-syste](https://github.com/Lcyys666/Static-blogging-system)
